@@ -2,7 +2,7 @@
 
 This is a simple Java program that calculates the hypotenuse of a right-angled triangle using the Pythagorean theorem. The user is prompted to enter the lengths of two sides and the unit of measurement, and the program computes the hypotenuse.
 
-## How to Run
+## How to Run :
 
 1. **Clone the repository**: Clone this project to your local machine.
    ```bash
